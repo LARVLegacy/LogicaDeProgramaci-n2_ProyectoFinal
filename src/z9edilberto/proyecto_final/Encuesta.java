@@ -1,6 +1,4 @@
 
-package z9edilberto.proyecto_final;
-
 public class Encuesta {
     
     private boolean pregunta1;
