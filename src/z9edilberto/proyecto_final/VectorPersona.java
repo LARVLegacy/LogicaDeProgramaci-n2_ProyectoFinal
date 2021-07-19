@@ -1,7 +1,3 @@
-
-
-package z9edilberto.proyecto_final;
-
 import javax.swing.JOptionPane;
 
 public class VectorPersona {
