@@ -1,6 +1,3 @@
-
-package z9edilberto.proyecto_final;
-
 public class Persona {
     
     private  String usuario;
